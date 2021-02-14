@@ -12,6 +12,12 @@ public class MyFirstProgram {
 
         Rectangle r = new Rectangle(4, 6) ;
         System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area() );
+
+        Triangle t = new Triangle(8);
+        System.out.println("Площадь треугольника со стороной " + t.l + " = " + t.area() );
+
+        Square1 n = new Square1(4);
+        System.out.println("Периметр квадрата со стороной " + n.l + " = " + n.perimeter() );
     }
 
     public static void hello(String somebody) {
