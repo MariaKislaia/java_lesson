@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2d344db-dc0f-420a-ba95-1e2736c00444" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/MyFirstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +35,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613229992268</updated>
       <workItem from="1613229996212" duration="1946000" />
-      <workItem from="1613306282230" duration="8851000" />
+      <workItem from="1613306282230" duration="11055000" />
     </task>
     <servers />
   </component>
